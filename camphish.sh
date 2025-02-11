@@ -4,7 +4,7 @@
 # CamPhish v1.8
 # Powered by TechChip
 # Credits goes to thelinuxchoice [github.com/thelinuxchoice/]
-# Bug fixes + Cloudflare added 
+# Bug fixes + Cloudflare added by https://github.com/07iamravi/
 
 trap 'printf "\n";stop' 2
 
